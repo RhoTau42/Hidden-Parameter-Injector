@@ -2,7 +2,7 @@
 inject.py, Tries to inject hidden common parameters to basic HTTP requests. Reveals any hidden parameters if any were accepted and changed the content of the page.
 
 ## Usage:
-* make sure you the latest upgrade of urlib3: `python3 -m pip install --upgrade urllib3`
+  * make sure you the latest upgrade of urlib3: `python3 -m pip install --upgrade urllib3`
 1. `python3 inject.py -u http://localhost/`
 2. If you want to use a urls list and run with all of them you can by using `--urls` followed by an urls list.
 3. Change the parameters wordlists with `-f` followed by the file you want the script to read from.
