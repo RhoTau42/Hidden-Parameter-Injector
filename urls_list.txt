@@ -1,0 +1,5 @@
+http://localhost/phpmyadmin/
+https://github.com/
+https://dividaat.com/forum/
+https://seekingalpha.com/
+http://abc.com/
